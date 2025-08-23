@@ -25,11 +25,11 @@ Este repositório contém códigos e atividades desenvolvidas na disciplina **IM
 - TensorFlow Lite for Microcontrollers (TinyML)
 - [Google Colaborary](https://colab.research.google.com/)
 - Linguagem **C/C++** para sistemas embarcados e **Python**
-
+- ESP32/ESP32-S3
 ---
 
 ## 📚 Referências
-- [Livro: TinyML – Machine Learning with TensorFlow Lite on Arduino and Ultra-Low Power Microcontrollers](https://www.oreilly.com/library/view/tinyml/9781492052043/)  
+- [Livro: TinyML – Machine Learning with TensorFlow Lite on Arduino and Ultra-Low Power Microcontrollers](https://www.oreilly.com/library/view/tinyml/9798341642423/)  
 - Materiais e slides fornecidos pelo professor da disciplina  
 - Documentação oficial das ferramentas utilizadas  
 
