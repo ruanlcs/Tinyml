@@ -1,6 +1,6 @@
 # IMD0288 - Aprendizado de Máquina Embarcado
 
-Este repositório contém códigos e atividades desenvolvidas na disciplina **IMD0288 - Aprendizado de Máquina Embarcado**, do curso BTI na **Universidade Federal do Rio Grande do Norte (UFRN)**.
+Este repositório contém códigos e atividades desenvolvidas na disciplina **IMD0288 - Aprendizado de Máquina Embarcado**, ofertada pelo Instituto Metrópole Digital da **Universidade Federal do Rio Grande do Norte (UFRN)**.
 
 ---
 
